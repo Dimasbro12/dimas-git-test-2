@@ -3,6 +3,10 @@
     <head>
 <meta charset="UTF-8">
 <title>Coba Git Remote</title>
+    <style>
+        body {font-family:georgia;
+        }
+    </style>
     </head>
     <body>
         <h1>Jello WORLD</h1>
